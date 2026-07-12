@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/UI/">
+    <Project Path="src/UI/RecoveryApp/RecoveryApp.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/RecoveryApp.Tests/RecoveryApp.Tests.csproj" />
+  </Folder>
+</Solution>
