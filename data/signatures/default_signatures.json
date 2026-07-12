@@ -1,0 +1,26 @@
+{
+  "signatures": [
+    { "type": "JPEG", "extension": ".jpg", "header_hex": "FFD8FFE0", "footer_hex": "FFD9", "max_size": 52428800 },
+    { "type": "PNG", "extension": ".png", "header_hex": "89504E470D0A1A0A", "footer_hex": "49454E44AE426082", "max_size": 52428800 },
+    { "type": "GIF87a", "extension": ".gif", "header_hex": "474946383761", "footer_hex": "003B", "max_size": 20971520 },
+    { "type": "GIF89a", "extension": ".gif", "header_hex": "474946383961", "footer_hex": "003B", "max_size": 20971520 },
+    { "type": "BMP", "extension": ".bmp", "header_hex": "424D", "max_size": 104857600 },
+    { "type": "TIFF-LE", "extension": ".tif", "header_hex": "49492A00", "max_size": 104857600 },
+    { "type": "TIFF-BE", "extension": ".tif", "header_hex": "4D4D002A", "max_size": 104857600 },
+    { "type": "PDF", "extension": ".pdf", "header_hex": "25504446", "footer_hex": "2525454F46", "max_size": 209715200 },
+    { "type": "ZIP", "extension": ".zip", "header_hex": "504B0304", "footer_hex": "504B0506", "max_size": 209715200 },
+    { "type": "DOCX", "extension": ".docx", "header_hex": "504B0304", "footer_hex": "504B0506", "max_size": 209715200 },
+    { "type": "XLSX", "extension": ".xlsx", "header_hex": "504B0304", "footer_hex": "504B0506", "max_size": 209715200 },
+    { "type": "PPTX", "extension": ".pptx", "header_hex": "504B0304", "footer_hex": "504B0506", "max_size": 209715200 },
+    { "type": "7z", "extension": ".7z", "header_hex": "377ABCAF271C", "max_size": 1073741824 },
+    { "type": "RAR", "extension": ".rar", "header_hex": "526172211A0700", "max_size": 1073741824 },
+    { "type": "SQLite", "extension": ".db", "header_hex": "53514C69746520666F726D6174203300", "max_size": 536870912 },
+    { "type": "MP3", "extension": ".mp3", "header_hex": "494433", "max_size": 536870912 },
+    { "type": "MP4", "extension": ".mp4", "header_hex": "0000001866747970", "max_size": 2147483648 },
+    { "type": "AVI", "extension": ".avi", "header_hex": "52494646", "max_size": 2147483648 },
+    { "type": "WAV", "extension": ".wav", "header_hex": "52494646", "max_size": 536870912 },
+    { "type": "EXE", "extension": ".exe", "header_hex": "4D5A", "max_size": 536870912 },
+    { "type": "ELF", "extension": ".elf", "header_hex": "7F454C46", "max_size": 536870912 },
+    { "type": "RTF", "extension": ".rtf", "header_hex": "7B5C72746631", "max_size": 104857600 }
+  ]
+}

@@ -1,0 +1,9 @@
+/build/
+**/bin/
+**/obj/
+.vs/
+*.user
+*.suo
+*.db-shm
+*.db-wal
+sessions.db
